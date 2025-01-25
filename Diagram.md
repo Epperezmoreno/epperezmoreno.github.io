@@ -12,4 +12,9 @@ F -->|3| I[Gift]
 D --> J(phone bill)
 D --> K(Rent)
 D --> M(Car Insurance)
+
+E --> N{Save For what?}
+N --> |primary| O[Emergency Fund]
+N --> |secondary| P[New Car]
+N --> |Optional| Q[Christmas gifts]
 ```
