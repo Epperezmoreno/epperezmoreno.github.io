@@ -9,7 +9,7 @@ F -->|1| G[New monitor]
 F -->|2| H[Food]
 F -->|3| I[Gift]
 
-D --> G(phone bill)
-D --> H(Rent)
-D --> I(Car Insurance)
+D --> J(phone bill)
+D --> K(Rent)
+D --> M(Car Insurance)
 ```
