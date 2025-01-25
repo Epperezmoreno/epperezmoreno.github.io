@@ -1,9 +1,9 @@
 ```mermaid
 flowchart TD 
 AA{{LIFE}} --->A[Work?] -->B(Get money)
-B --> C(Go shoping)
-B --> D((Pay Bills))
-B --> E(Save)
+B -->|least Important| C(Go shoping)
+B -->|priority #1| D((Pay Bills))
+B -->|important| E(Save)
 C --> F{Let me think}
 F -->|1| G[New monitor]
 F -->|2| H[Food]
