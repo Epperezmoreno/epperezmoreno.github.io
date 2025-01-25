@@ -1,8 +1,8 @@
 ```mermaid
 flowchart TD 
 A[Work] -->B(Get money)
-B --> C((Go shoping))
-B --> D(Pay Bills)
+B --> C(Go shoping)
+B --> D((Pay Bills))
 B --> E(Save)
 C --> F{Let me think}
 F -->|1| G[New monitor]
@@ -14,7 +14,7 @@ D --> K(Rent)
 D --> M(Car Insurance)
 
 E --> N{Save For what?}
-N --> |primary| O[Emergency Fund]
+N --> |primary| O<Emergency Fund>
 N --> |secondary| P[New Car]
 N --> |Optional| Q[Christmas gifts]
 ```
