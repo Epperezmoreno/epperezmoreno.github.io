@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TD 
 A[Work] -->B(Get money)
-B --> C(Go shoping)
+B --> C((Go shoping))
 B --> D(Pay Bills)
 B --> E(Save)
 C --> F{Let me think}
