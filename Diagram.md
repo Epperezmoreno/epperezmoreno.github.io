@@ -1,11 +1,12 @@
 ```mermaid
 flowchart TD 
-A[Work] -->|Get money| B(Go sopping)
+A[Work] -->B(Get money)
+B --> C(Go shoping)
 A --> C(Pay Bills)
 A --> D(Save)
-B --> E{Let me think}
-E -->|One| F[Laptop]
-E -->|Two| G[iphone]
-E -->|Three| H[fa:fa-car Car]
+C --> F{Let me think}
+F -->|One| G[Laptop]
+F -->|Two| H[iphone]
+F -->|Three| I[fa:fa-car Car]
 
 ```
