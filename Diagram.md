@@ -25,6 +25,6 @@ N --> |Optional| Q[Christmas gifts]
 
 
 AA -->X[No Work?]
-X --->L((Death))
+X ---->L((Death))
 
 ```
