@@ -5,8 +5,8 @@ B --> C(Go shoping)
 B --> D(Pay Bills)
 B --> E(Save)
 C --> F{Let me think}
-F -->|1| G[Laptop]
-F -->|2| H[iphone]
-F -->|3| I[fa:fa-car Car]
+F -->|1| G[New monitor]
+F -->|2| H[Food]
+F -->|3| I[Gift]
 
 ```
