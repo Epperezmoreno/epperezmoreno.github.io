@@ -18,13 +18,7 @@ N --> |primary| O[[Emergency Fund]]
 N --> |secondary| P[New Car]
 N --> |Optional| Q[Christmas gifts]
 
-
-
-
-
-
-
-AA -->X[No Work?]
-X ---->L((Death))
+AA --->X[No Work?]
+X --->L((Death))
 
 ```
