@@ -2,8 +2,8 @@
 flowchart TD 
 A[Work] -->B(Get money)
 B --> C(Go shoping)
-A --> C(Pay Bills)
-A --> D(Save)
+B --> D(Pay Bills)
+B --> E(Save)
 C --> F{Let me think}
 F -->|One| G[Laptop]
 F -->|Two| H[iphone]
