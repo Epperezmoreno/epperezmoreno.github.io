@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD 
-A[Work] -->B(Get money)
+AA{{LIFE}} -->A[Work] -->B(Get money)
 B --> C(Go shoping)
 B --> D((Pay Bills))
 B --> E(Save)
@@ -17,4 +17,7 @@ E --> N{Save For what?}
 N --> |primary| O[[Emergency Fund]]
 N --> |secondary| P[New Car]
 N --> |Optional| Q[Christmas gifts]
+
+
+
 ```
